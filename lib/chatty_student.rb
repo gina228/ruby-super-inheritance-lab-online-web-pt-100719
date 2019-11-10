@@ -9,7 +9,8 @@ class ChattyStudent < Student
       super
     puts "Pick me!"
     puts "Pick me!"
-
+    puts "Pick me!"
+    puts "Pick me!"
   end 
   
 end 
